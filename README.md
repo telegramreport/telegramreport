@@ -1,4 +1,4 @@
-## TELEGRAM BAN BOT SERVICE AS A SERVICE TO KILL TELEGRAM SERVERS
+## TELEGRAM MASS REPORT -> BAN CHANNELS / GROUPS / USERS / BOTS
 
 
 **Using this BOT @taskban_bot you can ban preatty much any Channel / Group / User on Telegram.**
