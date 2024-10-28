@@ -1,7 +1,7 @@
 ## TELEGRAM MASS REPORT -> BAN CHANNELS / GROUPS / USERS / BOTS
 
 
-**Using this BOT @taskban_bot costs alittle bit of Money to keep our Servers running!**
+**Using this BOT @taskban_bot -> https://t.me/taskban_bot**
 
 Contact us for help:
 
