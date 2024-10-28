@@ -1,7 +1,7 @@
 ## TELEGRAM MASS REPORT -> BAN CHANNELS / GROUPS / USERS / BOTS
 
 
-**Using this BOT @taskban_bot you can ban preatty much any Channel / Group / User on Telegram.**
+**Using this BOT @taskban_bot costs alittle bit of Money to keep our Servers running!**
 
 Contact us for help:
 
