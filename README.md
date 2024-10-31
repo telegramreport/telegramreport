@@ -5,9 +5,9 @@
 
 Contact us for help:
 
-@realcodingguy
+**https://t.me/realcodingguy**
 
-@most_wanted_by_the_cia
+**https://t.me/most_wanted_by_the_cia**
 
 **Pictures**
 
